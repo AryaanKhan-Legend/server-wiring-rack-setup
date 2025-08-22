@@ -7,7 +7,7 @@ Overview: This project demonstrates the process of configuring, organizing, and 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 What I Did:
 
-Configured and connected servers, switches, and patch panels (using personal lab equipment or sanitized examples).
+Configured and connected servers, switches, and patch panels for a private company..
 Implemented structured cabling and labeling to improve clarity and reduce setup time.
 Documented rack layout and device organization for easier maintenance.
 Gained hands-on experience with rack-mounted servers, UPS systems, and networking equipment.
