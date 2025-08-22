@@ -50,9 +50,4 @@ It focuses on **structured cabling, labeling, and standard server setup practice
 
 ---
 
-### 📸 Images
-Include images of your rack here (blur sensitive info):
 
-```markdown
-![Server Rack Overview](images/rack_overview.jpg)
-![Color-Coded Wiring](images/rack_wiring.jpg)
